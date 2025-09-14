@@ -1,3 +1,3 @@
 # skillup
 
-skillupcourses.netlify.app
+[skillupcourses.netlify.app](https://skillupcourses.netlify.app/)
