@@ -221,6 +221,9 @@ footer {
     background-color: rgb(253, 248, 255);
     transform: scale(1.1);
 }
+.course-card a:active{
+    color: black;
+}
 
 
 @media (min-width: 500px) and (max-width: 1000px) {
@@ -301,6 +304,9 @@ footer {
 
     .footer-bar a {
         padding: 0.3rem 0.8rem;
-        font-size: 0.8rem;
+        font-size: 0.7rem;
+    }
+    footer{
+        width: 100%;
     }
 }
