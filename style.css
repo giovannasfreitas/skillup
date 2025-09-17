@@ -262,7 +262,7 @@ footer {
 
 @media (min-width: 0px) and (max-width: 499px) {
     .cta-img img {
-        margin-top: 2rem;
+        margin-top:3rem;
         width: 250px;
     }
 
@@ -305,6 +305,9 @@ footer {
     .footer-bar a {
         padding: 0.3rem 0.8rem;
         font-size: 0.7rem;
+    }
+    h1{
+        font-size: 2.8rem;
     }
     footer{
         width: 100%;
